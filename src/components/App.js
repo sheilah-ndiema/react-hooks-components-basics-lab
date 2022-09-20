@@ -16,7 +16,7 @@ function Home() {
   );
 }
 
-{/* write an <About> component here */ }
+//About component
 
 function About() {
   return (
